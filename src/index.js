@@ -100,7 +100,7 @@ function createCountryInfo(returnedСountries) {
     )} </p>
       </li>
   </ul>
-			</div>`
+			</div>`;
     }
   );
   // повертаємо розмітку всавлену в hnml/countryInfo
