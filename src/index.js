@@ -99,8 +99,8 @@ function createCountryInfo(returnedСountries) {
       ', '
     )} </p>
       </li>
-  </ul>;
-			</div>`;
+  </ul>
+			</div>`
     }
   );
   // повертаємо розмітку всавлену в hnml/countryInfo
