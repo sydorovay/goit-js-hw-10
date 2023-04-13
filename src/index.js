@@ -95,7 +95,7 @@ function createCountryInfo(returnedСountries) {
     <p class="country-info"><b>Population:</b> ${population}</p>
       </li>
       <li class="country-item"> 
-    <p class="country-info"><b>Languages:</b>${Object.values(languages).join(
+    <p class="country-info"><b>Languages:</b> ${Object.values(languages).join(
       ', '
     )} </p>
       </li>
